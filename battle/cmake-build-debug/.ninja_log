@@ -1,0 +1,15 @@
+# ninja log v5
+8	289	7319682367111036	CMakeFiles/battle.dir/Player.cpp.obj	e4f73f61c4f5c553
+1	90	7319613704277112	build.ninja	8feaa614cba52516
+970	1039	7319731262010621	battle.exe	d2e3caff0ccec713
+8	290	7319606685920993	CMakeFiles/battle.dir/Enemy.cpp.obj	660bf8392c7bec11
+2	970	7319731261341297	CMakeFiles/battle.dir/Battle.cpp.obj	5f884526dd442fcd
+2	1169	7319725903024651	CMakeFiles/battle.dir/main.cpp.obj	f0dde1b747fc9fc3
+16	293	7319682367141025	CMakeFiles/battle.dir/Character.cpp.obj	186e0d1d8dd1b71d
+2	1018	7319733972482625	CMakeFiles/battle.dir/Battle.cpp.obj	5f884526dd442fcd
+1018	1094	7319733973218358	battle.exe	d2e3caff0ccec713
+8	1092	7319734807642599	CMakeFiles/battle.dir/main.cpp.obj	f0dde1b747fc9fc3
+3	1118	7319734807897906	CMakeFiles/battle.dir/Battle.cpp.obj	5f884526dd442fcd
+1118	1189	7319734808592409	battle.exe	d2e3caff0ccec713
+2	967	7319734961341461	CMakeFiles/battle.dir/main.cpp.obj	f0dde1b747fc9fc3
+967	1043	7319734962077678	battle.exe	d2e3caff0ccec713

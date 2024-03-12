@@ -1,0 +1,3 @@
+C:/Users/zthacker/checkers/battle/cmake-build-debug/CMakeFiles/battle.dir
+C:/Users/zthacker/checkers/battle/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/zthacker/checkers/battle/cmake-build-debug/CMakeFiles/rebuild_cache.dir
